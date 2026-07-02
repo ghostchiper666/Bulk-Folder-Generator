@@ -1,0 +1,6 @@
+{
+  "name": "Bulk Folder Generator",
+  "description": "Generate and download bulk folder structures as a ZIP file instantly. Supports cleaning, deduplication, drag & drop, and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
